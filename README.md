@@ -1,4 +1,4 @@
-# Vehicle Recall Capstone I Project
+# Vehicle Recall Brand Comparison
 
 
 ![image](https://user-images.githubusercontent.com/23224784/229323600-ed8b292e-856d-407a-9d52-073ac07f355c.png)
