@@ -22,7 +22,7 @@ In recent years, Volkswagen has been the number one (or very close to the number
 popular in the US. Given the lower number of Volkswagen sales and less popularity in the U.S. compared to Ford and Honda, there have been fewer 
 vehicles affected by recalls. An interesting finding is that the test did not find Ford and Honda as statistically the same. 
 
-# Recommendation:
+# Recommendation
 
 If you are choosing one of the more popular car mmanufacturers for a purchase, recalls may play a relatively less important role in decisions -- averaged over the years 1966 to February 2023. 
 
@@ -32,7 +32,7 @@ If you are choosing one of the more popular car mmanufacturers for a purchase, r
 * Time series of recalls for manufacturers -- car companies and vehicle component manufacturers
 
 
-# Power BI Dashboard: 
+# Power BI Dashboard
 
 In addition, to the capstone I created a Power BI Dashboard for the three manufacturers:
 
