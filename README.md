@@ -4,12 +4,12 @@
 ![image](https://user-images.githubusercontent.com/23224784/229323600-ed8b292e-856d-407a-9d52-073ac07f355c.png)
 
 
-# The Data Source
+# Data Source
 
 The dataset for this data analysis project is Recalls Data from the U.S. Department of Transportation. The dataset is at this link: https://datahub.transportation.gov/Automobiles/Recalls-Data/6axg-epim
 
 
-# The Data
+# Data
 
 The dataset includes recall information related to specific NHTSA campaigns as far back as 1966. Unfortunately, vehicle recalls are relatively common. Problems range from minor repairs to major repairs. Recently, Tesla recalled 362,758 vehicles due to the beta version of its Full Self-Driving software may cause crashes. Another notable case was the Ford Pinto in the 1970s. According to the U.S. Department of Transportation: "manufacturers who determine that a product or piece of original equipment either contains a safety defect or is not in compliance with Federal safety standards are required to notify NHTSA within five business days."
 
